@@ -3,7 +3,7 @@ Here lie the pile of Bash and ViM scripts, functions, alias's and the like that 
 
 WORKING SCRIPTS:
 
-    1. **TMUXs**  -   Easily attach to a *already running* TMUX session, or create a new one. 
+    1. TMUXs  -   Easily attach to a *already running* TMUX session, or create a new one. 
 
 
 This is what tmuxs does: (edit: now also includes a "new session" option)
