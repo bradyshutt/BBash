@@ -7,6 +7,7 @@ WORKING SCRIPTS:
 
 
 This is what tmuxs does: (edit: now also includes a "new session" option)
+(First option is the normal tmux way, second option is tmuxs script)
 
 ![What-tmuxs-does](/example.png)
 
