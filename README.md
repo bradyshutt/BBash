@@ -18,13 +18,14 @@ INSTALLATION:
 
 2. ADD this line to your .bashrc or .bash_profile file in your home directory:
     
-       for f in ~/MyBashScripts/include/*;do source $f;done; 
+        for f in ~/MyBashScripts/include/*;do source $f;done; 
+
 
 3. RUN this command from the command line to update your bash source (or just restart your terminal window)
     
         source ~/.bashrc
 
-4. Run the script from anywhere in bash by typing: 
+4. Run a script (tmuxs, for example) from anywhere in bash by typing: 
 
         tmuxs
         --or--
